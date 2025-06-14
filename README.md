@@ -1,8 +1,4 @@
-Here’s a professional and detailed **`README.md`** file for your GitHub repository: **[Covid-19-files-for-Tableau-Visualization](https://github.com/AbhishekIssei/Covid-19-files-for-Tableau-Visualization)**.
 
----
-
-```markdown
 # 🦠 COVID-19 Data Preparation & Tableau Visualization
 
 This project demonstrates the process of collecting, cleaning, transforming, and visualizing COVID-19 data using **SQL**, **Microsoft Excel**, and **Tableau**. The goal is to extract key insights about the pandemic’s spread, compare country-level metrics, and build intuitive dashboards to aid in data-driven storytelling.
@@ -11,7 +7,6 @@ This project demonstrates the process of collecting, cleaning, transforming, and
 
 ## 📁 Project Structure
 
-```
 
 ├── Covid Data for Tableau.sql        # SQL script to prepare data
 
@@ -22,8 +17,6 @@ This project demonstrates the process of collecting, cleaning, transforming, and
 ├── Tableau Table3.xlsx
 
 ├── Tableau Table4.xlsx
-
-```
 
 ---
 
@@ -107,7 +100,6 @@ Inspired by real-world COVID-19 analysis use cases. Data source assumed to be a 
 ---
 
 > *“Turning raw data into actionable insight through powerful visualization.”*
-```
 
 ---
 
